@@ -7,9 +7,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/myselflikithg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="myselflikithg" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/likith-g-313b18225" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/likith-g-313b18225" height="30" width="40" /></a>
-<a href="https://instagram.com/likith._.g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="likith._.g" height="30" width="40" /></a>
+<a href = "mailto:likithsujatha2001@hotmail.com?subject=From your Github Profile" ><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href = "https://www.linkedin.com/in/https://www.linkedin.com/in/likith-g-313b18225" ><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href = "https://www.instagram.com/likith._.g/" ><img src="https://img.shields.io/badge/instagram%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<a href = "https://twitter.com/myselflikithg" ><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/> </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
