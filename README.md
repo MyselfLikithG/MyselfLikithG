@@ -1,4 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm LIKITH G</h1>
+<h3 align="center">I'm Passionate about Network Security, Robotics and Cybernetics</h3>
+
 <p align="left"> <a href="https://twitter.com/myselflikithg" target="blank"><img src="https://img.shields.io/twitter/follow/myselflikithg?logo=twitter&style=for-the-badge" alt="myselflikithg" /></a> </p>
 
 - 📫 How to reach me **likithsujatha2001@hotmail.com**
