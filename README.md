@@ -14,5 +14,5 @@
 <a href = "https://twitter.com/myselflikithg" ><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/> </a>
 </p>
 
-
+## 🏆 GitHub Stats
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=myselflikithg&" alt="myselflikithg" /></p>
