@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm LIKITH G</h1>
+# Hello, I am Likith G <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 <p align="left"> <a href="https://twitter.com/myselflikithg" target="blank"><img src="https://img.shields.io/twitter/follow/myselflikithg?logo=twitter&style=for-the-badge" alt="myselflikithg" /></a> </p>
 
 - 📫 How to reach me **likithsujatha2001@hotmail.com**
